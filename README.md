@@ -11,10 +11,9 @@
 [时间选择器](#时间选择器)  
 [其他开发者整理的集合](#其他开发者整理的集合)  
 
-[回到目录](#目录)  
 ## 容器ViewGroup
 ### [弧形布局Arclayout](https://github.com/florent37/ArcLayout)
-![](https://raw.githubusercontent.com/florent37/ArcLayout/master/media/outside_small.png)
+![](https://raw.githubusercontent.com/florent37/ArcLayout/master/media/outside_small.png)  
 [回到目录](#目录)  
 ## 文本框TextView
 ### [跑马灯TextView](https://github.com/gongwen/MarqueeViewLibrary)
@@ -22,7 +21,7 @@
 ### [倒计时CountdownView](https://github.com/iwgang/CountdownView)
 ![](https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/s_main.png)
 ### [展开收起ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)
-![](https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true)
+![](https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true)  
 [回到目录](#目录)  
 ## 图片框ImageView
 ### [任意形状ImageView](https://github.com/MostafaGazar/CustomShapeImageView)
@@ -32,7 +31,7 @@
 ### [双图层按钮AndroidViewHolder](https://github.com/daimajia/AndroidViewHover)
 ![](https://camo.githubusercontent.com/44affb72f0688c213500917009a1680b41492413/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a356969686a746c35673230387a3066326e70642e676966)
 ### [大图缩放BigImageViewer](https://github.com/Piasy/BigImageViewer)
-![](https://github.com/Piasy/BigImageViewer/raw/master/art/biv_gif_support.gif)
+![](https://github.com/Piasy/BigImageViewer/raw/master/art/biv_gif_support.gif)  
 [回到目录](#目录)  
 ## 列表RecyclerView
 ### [饿了么二级联动点餐列表](https://camo.githubusercontent.com/0d015d250bd98052e494fffdddf108cc5ecbd966/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f35373033362d616461333165613037376630313434642e676966)
@@ -40,7 +39,7 @@
 ### [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)支持无限循环、Fragment、Tablayout
 ![](https://github.com/lsjwzh/RecyclerViewPager/raw/master/fragment.gif)
 ### [侧滑、拖拽、删除SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
-![](https://github.com/yanzhenjie/SwipeRecyclerView/raw/master/image/1.gif)
+![](https://github.com/yanzhenjie/SwipeRecyclerView/raw/master/image/1.gif)  
 [回到目录](#目录)  
 ## 加载动画Loading
 ### [mkloader](https://github.com/nntuyen/mkloader)
@@ -60,25 +59,25 @@
 ### [进度按钮DxLoadingButton](https://github.com/StevenDXC/DxLoadingButton)~~所以说这个应该归类到Button里还是Loadding里呢？~~
 ![](https://github.com/StevenDXC/DxLoadingButton/raw/master/image/loadingButton.gif)
 ### [水花AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator)
-![](https://github.com/yash786agg/AnimatedLoadingIndicator/raw/master/screenshots/ProgressBallMultipleIndicator.gif)
+![](https://github.com/yash786agg/AnimatedLoadingIndicator/raw/master/screenshots/ProgressBallMultipleIndicator.gif)  
 [回到目录](#目录)  
 ## 广告Banner
 ### [仿魅族商店Banner MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView)
-![](https://github.com/pinguo-zhouwei/MZBannerView/raw/master/image/%E9%AD%85%E6%97%8FBanner_fial.gif)
+![](https://github.com/pinguo-zhouwei/MZBannerView/raw/master/image/%E9%AD%85%E6%97%8FBanner_fial.gif)  
 [回到目录](#目录)  
 ## 搜索控件Search
 ### [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
-![](https://raw.githubusercontent.com/MiguelCatalan/MaterialSearchView/master/art/voice.gif)
+![](https://raw.githubusercontent.com/MiguelCatalan/MaterialSearchView/master/art/voice.gif)  
 [回到目录](#目录)  
 ## 日历Calaner
 ### [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
-![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/screen_recorder.gif)
+![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/screen_recorder.gif)  
 [回到目录](#目录)  
 ## 时间选择器
 ### [三级联动选择器Android-PickerView](https://github.com/Bigkoo/Android-PickerView)
-![](https://github.com/Bigkoo/Android-PickerView/raw/master/preview/timepicker.gif)
+![](https://github.com/Bigkoo/Android-PickerView/raw/master/preview/timepicker.gif)  
 [回到目录](#目录)  
 ## 其他开发者整理的集合
 ### [AndroidLibs](https://github.com/XXApple/AndroidLibs)正在成为史上最全分类 Android 开源大全~~~~
-### [Android----Loading](https://github.com/lyxwll/Android----Loading)史上最全、新鲜、创意、炫酷的Loading都在这儿了
+### [Android----Loading](https://github.com/lyxwll/Android----Loading)史上最全、新鲜、创意、炫酷的Loading都在这儿了  
 [回到目录](#目录)  
