@@ -34,6 +34,16 @@
 ![](https://github.com/ldoublem/LoadingView/raw/master/screen/screen.gif)
 ### [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 ![](https://github.com/81813780/AVLoadingIndicatorView/raw/master/screenshots/avi.gif)
+### [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
+![](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)
+### [波浪加载动画CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders)
+![](https://github.com/lopspower/CircularFillableLoaders/raw/master/preview/preview.gif)
+### [翻转魔方SquareLoading](https://github.com/yuweiguocn/SquareLoading)
+![](https://github.com/yuweiguocn/SquareLoading/raw/master/art/square-loading-demo.gif)
+### [进度按钮DxLoadingButton](https://github.com/StevenDXC/DxLoadingButton)~~所以说这个应该归类到Button里还是Loadding里呢？~~
+![](https://github.com/StevenDXC/DxLoadingButton/raw/master/image/loadingButton.gif)
+### [水花AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator)
+![](https://github.com/yash786agg/AnimatedLoadingIndicator/raw/master/screenshots/ProgressBallMultipleIndicator.gif)
 ## 广告Banner
 ### [仿魅族商店Banner MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView)
 ![](https://github.com/pinguo-zhouwei/MZBannerView/raw/master/image/%E9%AD%85%E6%97%8FBanner_fial.gif)
@@ -49,3 +59,4 @@
 
 ## 其他开发者整理的集合
 ### [AndroidLibs](https://github.com/XXApple/AndroidLibs)正在成为史上最全分类 Android 开源大全~~~~
+### [Android----Loading](https://github.com/lyxwll/Android----Loading)史上最全、新鲜、创意、炫酷的Loading都在这儿了
